@@ -21,6 +21,7 @@
 		0C83FF572AFA8B21007B96AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0C83FF5A2AFA8B21007B96AA /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		0C83FF622AFABB22007B96AA /* ChatContent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChatContent.swift; sourceTree = "<group>"; };
+		0C83FF642AFAC018007B96AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -37,6 +38,7 @@
 		0C83FF472AFA8B1F007B96AA = {
 			isa = PBXGroup;
 			children = (
+				0C83FF642AFAC018007B96AA /* README.md */,
 				0C83FF522AFA8B1F007B96AA /* ChatApplication */,
 				0C83FF512AFA8B1F007B96AA /* Products */,
 			);
